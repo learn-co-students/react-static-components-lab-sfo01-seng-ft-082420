@@ -11,6 +11,6 @@ export default class MouseComponent extends Component {
       <div className="bar" id="mouse">
         <canvas id="canvas"></canvas>
       </div>
-    )
+    );
   }
 }
